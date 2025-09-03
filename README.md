@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-|  No | tgl   | Praktikum ke  | Topik  | Laporan |Repositori |   
-| ------------ | ------------ | ------------ | ------------ | ------------ |------------ |------------ |
-|  1 | 3/9/2025  |  1 | Tutorial Github  |  tes |Coba|
