@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Haiii, Briliano Yusuf Najma Rasyada 🚀
+# 👋 Hai,Saya Briliano Yusuf Najma Rasyada 🚀
 
 Selamat datang di repositori praktikum **Mobile Programming** 📱✨  
 Disini aku bakal share perjalanan belajar & ngulik bareng seputar pemrograman mobile.  
