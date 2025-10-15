@@ -21,7 +21,7 @@ Semoga bermanfaat, seru, dan pastinya bikin belajar makin asik 😎🔥
 | 8 | 24/9/2025 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Tugas 8](https://drive.google.com/file/d/1tmEK2hqEggfWqX1c317fhFP4sSYvHQnv/view?usp=sharing) | [Repo Tugas 8](https://github.com/briliano/modul_8) |
 | 9 | 1/10/2025 | 5 | StatefulWidget | [Tugas 9](https://drive.google.com/file/d/1foa61EMkUIHD0RK228S4T63SYi5OPJuF/view?usp=sharing) | [Repo Tugas 9](https://github.com/briliano/modul_9) |
 | 10 | 3/9/2025 | 5 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Tugas 10](https://drive.google.com/file/d/18_sk7fxo2Zvff4-vMR3vCoWxN2W0utT7/view?usp=drive_link) | [Repo Tugas 10](https://github.com/briliano/modul_10) |
-| 10 | 15/10/2025 | 6 | Manajemen State dengan GetX  | [Tugas 10](https://drive.google.com/file/d/1XDYrELpyJ7JNOlDgmlUSH6ng-CZaIRYT/view?usp=drive_link) | [Repo Tugas 10](https://github.com/briliano/modul_11) |
+| 10 | 15/10/2025 | 6 | Manajemen State dengan GetX  | [Tugas 11](https://drive.google.com/file/d/1XDYrELpyJ7JNOlDgmlUSH6ng-CZaIRYT/view?usp=drive_link) | [Repo Tugas 11](https://github.com/briliano/modul_11) |
 
 
 ✨ Stay tuned untuk update praktikum berikutnya, jangan lupa kasih ⭐ di repo ini kalau suka ya!  
