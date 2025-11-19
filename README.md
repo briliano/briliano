@@ -22,7 +22,8 @@ Semoga bermanfaat, seru, dan pastinya bikin belajar makin asik 😎🔥
 | 9 | 1/10/2025 | 5 | StatefulWidget | [Tugas 9](https://drive.google.com/file/d/1foa61EMkUIHD0RK228S4T63SYi5OPJuF/view?usp=sharing) | [Repo Tugas 9](https://github.com/briliano/modul_9) |
 | 10 | 3/9/2025 | 5 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Tugas 10](https://drive.google.com/file/d/18_sk7fxo2Zvff4-vMR3vCoWxN2W0utT7/view?usp=drive_link) | [Repo Tugas 10](https://github.com/briliano/modul_10) |
 | 10 | 15/10/2025 | 6 | Manajemen State dengan GetX  | [Tugas 11](https://drive.google.com/file/d/1XDYrELpyJ7JNOlDgmlUSH6ng-CZaIRYT/view?usp=drive_link) | [Repo Tugas 11](https://github.com/briliano/modul_11) |
-
+| 11 | 5/11/2025 | 7 | Akses Lokasi dengan GPS di Flutter  | [Tugas 12](https://drive.google.com/file/d/1XDYrELpyJ7JNOlDgmlUSH6ng-CZaIRYT/view?usp=drive_link) | [Repo Tugas 12](https://github.com/briliano/modul_12) |
+| 12 | 19/11/2025 | 8 | Operasi CRUD  | [Tugas 13](https://drive.google.com/file/d/1XDYrELpyJ7JNOlDgmlUSH6ng-CZaIRYT/view?usp=drive_link) | [Repo Tugas 13](https://github.com/briliano/Modul_13) |
 
 ✨ Stay tuned untuk update praktikum berikutnya, jangan lupa kasih ⭐ di repo ini kalau suka ya!  
 </div>
